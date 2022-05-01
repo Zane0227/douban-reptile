@@ -1,0 +1,16 @@
+{
+  "name": "douban-reptile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-schedule": "^2.1.0",
+    "puppeteer": "^13.7.0"
+  }
+}
